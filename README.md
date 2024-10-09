@@ -1,6 +1,6 @@
 ### Hi there 👋
 I have around 9 years of experience in web development, mostly with **Laravel**(php) and experienced level in **fastapi**(python)
-- 🌱 I’m currently learning reactjs, nodejs
+- 🌱 I’m currently learning reactjs, nodejs, nextjs
 <!--
 **sumit-sharma/sumit-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
